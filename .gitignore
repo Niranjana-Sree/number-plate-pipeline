@@ -1,0 +1,20 @@
+# data and outputs: never commit
+chunks/
+work/
+models/
+plate_env/
+__pycache__/
+*.pyc
+*.mkv
+*.mp4
+*.jpg
+*.jpeg
+*.png
+*.csv
+!samples/*.csv
+eval_crops/
+eval_crops_fresh/
+chunk_status.csv
+recorder_log.txt
+config.txt
+.env

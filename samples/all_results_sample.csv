@@ -1,0 +1,21 @@
+chunk,track_id,time_in_chunk_s,best_time_s,n_frames,vehicle_label,vx1,vy1,vx2,vy2,px1,py1,px2,py2,plate_text,format_status,reason,abs_time
+cam_20261119_135048,T01,4.0,4.8,5,car,0,922,611,1385,349,1106,472,1156,3333XX,suspect,"repeated characters, likely invented",2026-11-19 13:50:52
+cam_20261119_135048,T02,11.4,11.6,2,motorcycle,415,1212,887,1590,664,1188,864,1335,7777XX,suspect,"repeated characters, likely invented",2026-11-19 13:50:59
+cam_20261119_135148,T01,0.2,0.4,3,bus,177,631,1563,1497,1271,1244,1416,1298,TN20XXXXXX,valid,format and state code ok,2026-11-19 13:51:48
+cam_20261119_135148,T02,4.6,4.6,3,motorcycle,157,912,1283,1691,1145,1482,1223,1527,C926X,partial,too short for a full plate (5 characters),2026-11-19 13:51:52
+cam_20261119_135218,T01,4.2,5.0,5,motorcycle,157,1248,614,1635,495,1417,568,1452,E842X,partial,too short for a full plate (5 characters),2026-11-19 13:52:23
+cam_20261119_135218,T02,11.4,11.4,4,motorcycle,1732,1290,2469,1886,2349,1580,2427,1632,7777XX,suspect,"repeated characters, likely invented",2026-11-19 13:52:29
+cam_20261119_135348,T01,2.8,3.6,5,car,0,968,764,1445,534,1201,657,1246,TNY0XXXXXX,invalid_format,does not match the Indian plate pattern,2026-11-19 13:53:51
+cam_20261119_135348,T02,3.6,4.2,4,motorcycle,284,1248,722,1631,635,1386,717,1422,7777XXXXXXXXXXXXXXXXXXXX,suspect,"repeated characters, likely invented",2026-11-19 13:53:52
+cam_20261119_135418,T01,1.2,2.2,6,motorcycle,165,1248,603,1642,442,1428,568,1488,TN22XXXXXX,valid,format and state code ok,2026-11-19 13:54:20
+cam_20261119_135418,T02,2.4,3.0,5,motorcycle,611,1130,1056,1486,964,1290,1048,1335,T871XXXXX,invalid_format,does not match the Indian plate pattern,2026-11-19 13:54:21
+cam_20261119_135448,T01,0.6,1.0,3,truck,0,525,756,1417,599,1056,674,1111,TN09XXXXXX,valid,format and state code ok,2026-11-19 13:54:49
+cam_20261119_135448,T02,3.4,3.4,2,truck,157,646,1317,1471,1081,1228,1173,1263,3456XXX,partial,too short for a full plate (7 characters),2026-11-19 13:54:51
+cam_20261119_135518,T01,21.0,21.4,3,motorcycle,134,1268,611,1711,415,1462,476,1493,7777XX,suspect,"repeated characters, likely invented",2026-11-19 13:55:39
+cam_20261119_135518,T02,29.2,29.2,5,motorcycle,2892,1186,3744,1706,2984,1365,3068,1415,7777XX,suspect,"repeated characters, likely invented",2026-11-19 13:55:47
+cam_20261119_135548,T01,0.2,0.4,3,motorcycle,526,1188,902,1488,841,1312,897,1344,A777XX,suspect,"repeated characters, likely invented",2026-11-19 13:55:48
+cam_20261119_135548,T02,1.2,1.2,1,motorcycle,276,1248,783,1639,682,1419,750,1461,3333XX,suspect,"repeated characters, likely invented",2026-11-19 13:55:49
+cam_20261119_135618,T01,0.4,0.8,3,motorcycle,81,1164,503,1566,427,1380,490,1421,5711XX,partial,too short for a full plate (6 characters),2026-11-19 13:56:18
+cam_20261119_135618,T02,2.6,3.4,6,car,0,931,699,1620,376,1214,526,1274,TN85XXXXX,valid,format and state code ok,2026-11-19 13:56:21
+cam_20261119_135648,T01,3.2,3.2,1,truck,0,795,956,1452,642,1218,847,1303,TN12XXXXXX,invalid_format,does not match the Indian plate pattern,2026-11-19 13:56:51
+cam_20261119_135648,T02,10.8,10.8,1,truck,645,825,3072,2115,2657,1631,2843,1741,TN09XXXXXX,invalid_format,does not match the Indian plate pattern,2026-11-19 13:56:58
